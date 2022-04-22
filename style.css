@@ -1,0 +1,89 @@
+*{
+   float: inline-start;
+   margin: 0px;
+   padding: 0px;
+
+}
+nav{
+   background-color: #D6AFDC;
+   height: 100px;
+   width: 100%;
+   
+}
+
+ nav{
+    float: left;
+    margin: 20px;
+    list-style: none;
+ }
+  ul{
+    float: left;
+    margin: 20px;
+    list-style: none;
+ }
+
+  li{
+    float: left;
+    margin: 20px;
+    list-style: none;
+ }
+ a:hover{
+    background-color: #0000FF;
+    color: #fff;
+ }
+
+
+ /*todo esto eran pruebas y error, si funcionan/*
+*{
+   float: inline-start;
+   margin: 20px;
+   padding: 20px;
+   background-color: #D6AFDC;
+}
+
+a{
+   color: white;
+   text-align: center;
+}
+
+a:hover{
+   background-color: blue;
+}
+
+nav ul a{
+   color: white;
+   text-align: center;
+   list-style: none;
+   padding: 20px;
+}
+*/
+
+/*
+*{
+   margin: 0;
+   padding: 0;                            
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #D6AFDC;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: blue;
+}
+*/
